@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
+}
+.clear{
+    clear: both;
+}
+header{
+    background-color: rgb(250, 246, 246);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+header nav ul{
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+header nav ul li{
+    list-style: none;
+
+}
+header nav ul li a{
+    text-decoration: none;
+    float: right;
+    width: 10%;
+
+}
+.home{
+    color: rgb(98, 223, 240);
+}
+header nav ul li img{
+    float: left;
+    padding-bottom: 10px;
+}
+.section_one{
+    background-color:rgb(245, 243, 243); ;
+    text-align: center;
+}
+h1{
+    padding-top: 90px;
+    padding-bottom: 60px;
+}
+.position{
+    text-align: center;
+    margin-left: 110px;
+   
+}
+.padding_ph{
+    padding-bottom: 80px;
+}
+
+.block{
+    padding: 20px 20px 80px  20px;
+    float: left;
+    width: 30%;
+    background-color: white;
+    margin: 0.5%;
+    margin-bottom: 60px;
+}
+.imagePadding{
+    margin-bottom: 10px;
+}
+hr{
+    background-color: rgb(0, 247, 255);
+    color:rgb(0, 247, 255);;
+    width: 20%;
+    margin-left: 40%;
+    margin-bottom: 10px;
+}
+h2{
+    margin-bottom: 40px;
+}
+.section_two{
+    background-color:white ;
+    text-align: center;
+    padding-top: 60px;
+}
+.imgs{
+    margin-left: 8%;       
+}
+footer{
+    background-color: rgb(137, 255, 243);
+    color: white;
+    margin-top: 20px;
+}
+footer p{
+    float: left;
+    margin-left: 250px;
+    padding: 20px;
+}
+i{
+    float: right;
+    font-size: 30px;
+    padding: 20px;
+    
+}
+#face{
+    
+    color: blue;
+    
+}
+#twitter{
+    color: rgb(64, 169, 255);
+}
+#insta{
+    color: crimson;
+}
+.icons{
+    margin-right: 200px;
+}
